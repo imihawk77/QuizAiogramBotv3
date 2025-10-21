@@ -9,4 +9,6 @@
 * /stats вывод статистики
 # Имя бота
 * Brainstormingbot
-
+# Запуск приложения
+* python -m venv venv
+* .\venv\Scripts\activate
