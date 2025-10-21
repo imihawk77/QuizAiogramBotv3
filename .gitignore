@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+*.spec
+
+# --- Virtual environments ---
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# --- Database / data ---
+*.db
+*.sqlite3
+
+# --- IDE & system files ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+logs/
+*.tmp
+
+# --- Environment / config ---
+.env
+.env.*
+*.bak
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
